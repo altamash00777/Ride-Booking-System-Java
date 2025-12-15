@@ -1,20 +1,26 @@
-🚕 Ride Booking System – Java OOP Project
+🚕 Ride Booking System using Java (OOP)
 
-I recently completed a Ride Booking System using Java, focusing on strong Object-Oriented Programming principles.
+I have built a mini Ride Booking System using Java to strengthen my Object-Oriented Programming concepts.
 
-🔹 OOP Concepts:
-✔ Inheritance
-✔ Abstraction
-✔ Polymorphism
-✔ Encapsulation
-✔ Packages
+🔹 Concepts Used:
+• Classes & Objects
+• Inheritance
+• Abstraction
+• Polymorphism
+• Encapsulation
+• Packages
 
-🔹 Vehicle-based fare calculation (Bike / Car)
-🔹 Clean and modular code structure
+🔹 Features:
+• User books a ride
+• Driver accepts the ride
+• Vehicle-based fare calculation (Car/Bike)
+• Clean OOP-based design
 
-🔗 GitHub Repository:
-👉 <PASTE YOUR GITHUB LINK HERE>
+🔹 Tech Stack:
+• Java
+• OOP
+• Console-based application
 
-I’m continuously learning and building projects to improve my problem-solving and software design skills.
+📌 This project helped me understand real-world OOP design and package structure in Java.
 
-#Java #OOP #SoftwareEngineering #BTechCSE #StudentLife #CodingJourney
+#Java #OOP #Programming #BTech #CSE #Learning #StudentDeveloper
